@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314348334860",
+    "project_id": "otakus-8e0e0",
+    "storage_bucket": "otakus-8e0e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314348334860:android:1598316e1d3578aa276329",
+        "android_client_info": {
+          "package_name": "com.anime.otakus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314348334860-0198giophfq113t3u0htdrlg2pdsho30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoPt0boCiuRNLZ-RLvVYarz6KYgkGnHAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314348334860-0198giophfq113t3u0htdrlg2pdsho30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
