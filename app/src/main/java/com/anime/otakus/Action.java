@@ -74,9 +74,6 @@ public class Action extends AppCompatActivity {
             }
         });
 
-//        Recyclerview_adapter adapter =new Recyclerview_adapter(rv,Thriller.this,fiction);
-//        rv.setLayoutManager(new GridLayoutManager(this,2));
-//        rv.setAdapter(adapter);
 
         rv.setHasFixedSize(true);
         rv.setLayoutManager(new LinearLayoutManager(this,RecyclerView.VERTICAL,false));
